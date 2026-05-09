@@ -1,4 +1,4 @@
-function calculateSum(var1, var2) {
+function calculateNumbers(var1, var2) {
     return var1 + var2;
 }
 
@@ -18,7 +18,7 @@ function calculateQuotient(var1, var2) {
 }
 
 module.exports = {
-    calculateSum,
+    calculateNumbers,
     calculateDifference,
     calculateProduct,
     calculateQuotient
